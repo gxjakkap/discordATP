@@ -1,5 +1,5 @@
 const { Client, Intents, Guild, Permissions, MessageEmbed } = require("discord.js");
-const credentials = require('./config.js')
+const config = require('./config.js')
 const client = new Client({
     intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]
 });
