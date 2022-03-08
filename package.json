@@ -1,0 +1,11 @@
+{
+  "name": "discordatp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jakkaphat Chalermphanaphan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "stop-discord-phishing": "^0.2.0"
+  }
+}
